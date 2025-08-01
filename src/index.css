@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: #FDF8EE;
+  color: #000000;
+  font-family: "Jost", sans-serif;
+}
